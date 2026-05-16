@@ -1,6 +1,6 @@
 {
-  "name": "Arlington",
-  "short_name": "Arlington",
+  "name": "Geotechnical Engineering",
+  "short_name": "Geotechnical",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#0A2540",
@@ -11,10 +11,5 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ],
-  "lang": "en",
-  "orientation": "portrait",
-  "scope": "/",
-  "description": "Professional geotechnical services in Arlington, USA. Soil studies, testing and technical consulting.",
-  "id": "/arlington-6361"
+  ]
 }
